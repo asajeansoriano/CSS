@@ -1,0 +1,15 @@
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+c {
+    font-family: "Inter", Verdana, Arial;
+    background-color: #434345;
+}
+
+u {
+    font-weight: bold;
+}
