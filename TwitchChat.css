@@ -7,9 +7,15 @@
 
 c {
     font-family: "Inter", Verdana, Arial;
+    font-size: 13px;
+    color:aliceblue;
     background-color: #434345;
+    margin: 10px;
+    padding: 20px;
 }
 
-u {
-    font-weight: bold;
+e {
+    width: 51px;
+    height: 51px;
+    src:"/emotes"
 }
